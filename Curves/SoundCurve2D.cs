@@ -1,9 +1,6 @@
+namespace UAWLib;
 
-
-public static class UAWLib
+public struct SoundCurve2D
 {
-    public struct SoundCurve2D
-    {
-        
-    }
+    
 }

@@ -1,5 +1,1 @@
-
-public static class UAWLib
-{
-
-}
+namespace UAWLib;

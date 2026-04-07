@@ -1,7 +1,5 @@
-public static class UAWLib
+namespace UAWLib;
+public class DepthCurve2D
 {
-    public class DepthCurve2D
-    {
-        
-    }
+    
 }
